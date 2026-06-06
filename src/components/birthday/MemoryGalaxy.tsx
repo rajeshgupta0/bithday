@@ -16,7 +16,7 @@ import m10 from "@/assets/img10.jpg";
 import m11 from "@/assets/img20.jpg";
 import m12 from "@/assets/img12.jpg";
 import m13 from "@/assets/img13.jpg";
-import m14 from "@/assets/img14.jpg";
+import m14 from "@/assets/img14.JPG";
 import m15 from "@/assets/img15.jpg";
 import m16 from "@/assets/img16.jpg";
 import m17 from "@/assets/img17.jpg";
